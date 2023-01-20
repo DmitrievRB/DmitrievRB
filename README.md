@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 <a href="https://www.gurock.com/testrail">
 <img src="https://github.com/DmitrievRB/DmitrievRB/blob/master/icons/TestRail.png" alt="TestRail" width="50" height="50" />
 </a>
+<a href="https://www.mindmanager.com/">
+<img src="https://github.com/DmitrievRB/DmitrievRB/blob/master/icons/mindmanager.png" alt="MindManager" width="50" height="50" />
+</a>
