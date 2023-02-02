@@ -30,7 +30,7 @@
 
 ## Инструменты и технологии
 
--->
+
 <a href="https://www.gurock.com/testrail">
 <img src="https://github.com/DmitrievRB/DmitrievRB/blob/master/icons/TestRail.png" alt="TestRail" width="50" height="50" />
 </a>
