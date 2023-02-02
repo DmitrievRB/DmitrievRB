@@ -23,7 +23,10 @@
   -  [PetFriends ](https://github.com/DmitrievRB/TrainingPostman)
 - SQL запросы 
   -  [Приют животных](https://github.com/DmitrievRB/MyTrainingSQL.git)
-  
+- Python
+   -  [Парактические работы QAP ]( https://github.com/DmitrievRB/practic.git  )
+
+ 
 
 ## Инструменты и технологии
 
