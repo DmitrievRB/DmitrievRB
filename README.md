@@ -52,3 +52,7 @@
 <a href="https://swagger.io/">
 <img src="https://github.com/DmitrievRB/DmitrievRB/blob/master/icons/swagger.png" alt="Swagger" width="50" height="50" />
 </a>
+<a href="https://www.python.org/">
+<img src="https://github.com/DmitrievRB/DmitrievRB/blob/master/icons/python.png" alt="Swagger" width="50" height="50" />
+</a>
+
