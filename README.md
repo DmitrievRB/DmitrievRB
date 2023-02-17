@@ -20,7 +20,7 @@
   -  [Mind maps](https://github.com/DmitrievRB/MindMap)
   -  [Баг-репорты](https://github.com/DmitrievRB/Bug_Report.git)
 - Коллекция в Postman 
-  -  [PetFriends ](https://github.com/DmitrievRB/TrainingPostman)
+  -  [Pet_Friends ](https://github.com/DmitrievRB/TrainingPostman)
 - SQL запросы 
   -  [Приют животных](https://github.com/DmitrievRB/MyTrainingSQL.git)
 - Python
