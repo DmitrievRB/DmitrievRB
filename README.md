@@ -56,4 +56,3 @@
 <img src="https://github.com/DmitrievRB/DmitrievRB/blob/master/icons/python.png" alt="Python" width="50" height="50" />
 </a>
 
-s
