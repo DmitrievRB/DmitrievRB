@@ -15,16 +15,16 @@
 
 ## Портфолио 
 - Тестовая документация
-  -  [Чек-листы](https://github.com/DmitrievRB/Checklist.git)
-  -  [Тест-кейсы](https://github.com/DmitrievRB/Test_Case.git)
-  -  [Mind maps](https://github.com/DmitrievRB/MindMap)
-  -  [Баг-репорты](https://github.com/DmitrievRB/Bug_Report.git)
+   -  [Чек-листы](https://github.com/DmitrievRB/Checklist.git)
+   -  [Mind maps](https://github.com/DmitrievRB/MindMap.git)
+  
 - Коллекция в Postman 
-  -  [Pet_Friends ](https://github.com/DmitrievRB/TrainingPostman)
+   -  [Pet_Friends ](https://github.com/DmitrievRB/TrainingPostman.git)
 - SQL запросы 
-  -  [Приют животных](https://github.com/DmitrievRB/MyTrainingSQL.git)
+   -  [Приют животных](https://github.com/DmitrievRB/MyTrainingSQL.git)
 - Python
-   -  [Парактические работы QAP ]( https://github.com/DmitrievRB/practic.git  )
+   -  [Финальный проект по автоматизации тестирования ]( https://github.com/DmitrievRB/Final_project.git  )
+   -  [«Тестирование сайта petfiriend Pytest +REST API»]( https://github.com/DmitrievRB/pet_friends.git )
 
  
 
