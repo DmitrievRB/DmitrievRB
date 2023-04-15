@@ -21,7 +21,7 @@
 - Коллекция в Postman 
    -  [Pet_Friends ](https://github.com/DmitrievRB/TrainingPostman.git)
 - SQL запросы 
-   -  [Приют животных](https://github.com/DmitrievRB/MyTrainingSQL.git)
+   -  [Приют животных](https://github.com/DmitrievRB/pet_shop_sql.git)
 - Python
    -  [Финальный проект по автоматизации тестирования ]( https://github.com/DmitrievRB/Final_project.git  )
    -  [«Тестирование сайта petfiriend Pytest +REST API»]( https://github.com/DmitrievRB/pet_friends.git )
