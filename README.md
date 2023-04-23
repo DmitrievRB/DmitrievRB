@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GIF](https://proza.ru/pics/2021/08/01/233.gif)
+![GIF](https://github.com/DmitrievRB/DmitrievRB/blob/master/icons/qa.png)
   
 </div>
 
@@ -19,7 +19,7 @@
    -  [Mind maps](https://github.com/DmitrievRB/MindMap.git)
   
 - Коллекция в Postman 
-   -  [Pet_Friends ](https://github.com/DmitrievRB/TrainingPostman.git)
+   -  [Pet_Friends ](https://github.com/DmitrievRB/Postman_Pet_friends.git)
 - SQL запросы 
    -  [Приют животных](https://github.com/DmitrievRB/pet_shop_sql.git)
 - Python
