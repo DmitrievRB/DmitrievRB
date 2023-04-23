@@ -1,7 +1,7 @@
 # Приветствую  🦕
 
 <div align="center">
-<a href="">
+<a href="https://github.com/DmitrievRB/DmitrievRB.git">
 <img src="https://github.com/DmitrievRB/DmitrievRB/blob/master/icons/qa.png" width=50% height=50% />
  </a> 
 </div>
