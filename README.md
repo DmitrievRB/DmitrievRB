@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GIF](https://github.com/DmitrievRB/DmitrievRB/blob/master/icons/qa.png){width=150px}
+<img src = " https://github.com/DmitrievRB/DmitrievRB/blob/master/icons/qa.png" width=50% height=50%>
   
 </div>
 
